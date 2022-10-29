@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/yamllint.json": "/*.yaml",
+    "https://github.com/jcchavezs/envoy-config-schema/releases/download/v1.21.0/v3_Bootstrap.json": "/*.yaml"
+  }
+}
